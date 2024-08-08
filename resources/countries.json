@@ -5,8 +5,8 @@
     "code": "AF",
     "flag": "https://flagcdn.com/af.svg",
     "emoji": "🇦🇫",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Albania",
@@ -14,8 +14,8 @@
     "code": "AL",
     "flag": "https://flagcdn.com/al.svg",
     "emoji": "🇦🇱",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Alemania",
@@ -23,8 +23,8 @@
     "code": "DE",
     "flag": "https://flagcdn.com/de.svg",
     "emoji": "🇩🇪",
-    "latinAmerica": false,
-    "phoneLength": 10,
+    "owner": null,
+    "phoneLength": 10
   },
   {
     "country": "Andorra",
@@ -32,8 +32,8 @@
     "code": "AD",
     "flag": "https://flagcdn.com/ad.svg",
     "emoji": "🇦🇩",
-    "latinAmerica": false,
-    "phoneLength": 6,
+    "owner": null,
+    "phoneLength": 6
   },
   {
     "country": "Angola",
@@ -41,8 +41,8 @@
     "code": "AO",
     "flag": "https://flagcdn.com/ao.svg",
     "emoji": "🇦🇴",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Antigua y Barbuda",
@@ -50,8 +50,8 @@
     "code": "AG",
     "flag": "https://flagcdn.com/ag.svg",
     "emoji": "🇦🇬",
-    "latinAmerica": false,
-    "phoneLength": 10,
+    "owner": null,
+    "phoneLength": 10
   },
   {
     "country": "Arabia Saudita",
@@ -59,8 +59,8 @@
     "code": "SA",
     "flag": "https://flagcdn.com/sa.svg",
     "emoji": "🇸🇦",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Argelia",
@@ -68,8 +68,8 @@
     "code": "DZ",
     "flag": "https://flagcdn.com/dz.svg",
     "emoji": "🇩🇿",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Argentina",
@@ -77,8 +77,8 @@
     "code": "AR",
     "flag": "https://flagcdn.com/ar.svg",
     "emoji": "🇦🇷",
-    "latinAmerica": true,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Armenia",
@@ -86,8 +86,8 @@
     "code": "AM",
     "flag": "https://flagcdn.com/am.svg",
     "emoji": "🇦🇲",
-    "latinAmerica": false,
-    "phoneLength": 6,
+    "owner": null,
+    "phoneLength": 6
   },
   {
     "country": "Australia",
@@ -95,8 +95,8 @@
     "code": "AU",
     "flag": "https://flagcdn.com/au.svg",
     "emoji": "🇦🇺",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Austria",
@@ -104,8 +104,8 @@
     "code": "AT",
     "flag": "https://flagcdn.com/at.svg",
     "emoji": "🇦🇹",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Azerbaiyán",
@@ -113,8 +113,8 @@
     "code": "AZ",
     "flag": "https://flagcdn.com/az.svg",
     "emoji": "🇦🇿",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Bahamas",
@@ -122,8 +122,8 @@
     "code": "BS",
     "flag": "https://flagcdn.com/bs.svg",
     "emoji": "🇧🇸",
-    "latinAmerica": false,
-    "phoneLength": 10,
+    "owner": null,
+    "phoneLength": 10
   },
   {
     "country": "Bangladés",
@@ -131,8 +131,8 @@
     "code": "BD",
     "flag": "https://flagcdn.com/bd.svg",
     "emoji": "🇧🇩",
-    "latinAmerica": false,
-    "phoneLength": 10,
+    "owner": null,
+    "phoneLength": 10
   },
   {
     "country": "Barbados",
@@ -140,8 +140,8 @@
     "code": "BB",
     "flag": "https://flagcdn.com/bb.svg",
     "emoji": "🇧🇧",
-    "latinAmerica": false,
-    "phoneLength": 10,
+    "owner": null,
+    "phoneLength": 10
   },
   {
     "country": "Baréin",
@@ -149,8 +149,8 @@
     "code": "BH",
     "flag": "https://flagcdn.com/bh.svg",
     "emoji": "🇧🇭",
-    "latinAmerica": false,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Bélgica",
@@ -158,8 +158,8 @@
     "code": "BE",
     "flag": "https://flagcdn.com/be.svg",
     "emoji": "🇧🇪",
-    "latinAmerica": false,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Belice",
@@ -167,8 +167,8 @@
     "code": "BZ",
     "flag": "https://flagcdn.com/bz.svg",
     "emoji": "🇧🇿",
-    "latinAmerica": false,
-    "phoneLength": 7,
+    "owner": null,
+    "phoneLength": 7
   },
   {
     "country": "Benín",
@@ -176,8 +176,8 @@
     "code": "BJ",
     "flag": "https://flagcdn.com/bj.svg",
     "emoji": "🇧🇯",
-    "latinAmerica": false,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Bielorrusia",
@@ -185,8 +185,8 @@
     "code": "BY",
     "flag": "https://flagcdn.com/by.svg",
     "emoji": "🇧🇾",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Birmania",
@@ -194,8 +194,8 @@
     "code": "MM",
     "flag": "https://flagcdn.com/mm.svg",
     "emoji": "🇲🇲",
-    "latinAmerica": false,
-    "phoneLength": 10,
+    "owner": null,
+    "phoneLength": 10
   },
   {
     "country": "Bolivia",
@@ -203,8 +203,8 @@
     "code": "BO",
     "flag": "https://flagcdn.com/bo.svg",
     "emoji": "🇧🇴",
-    "latinAmerica": true,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Bosnia y Herzegovina",
@@ -212,8 +212,8 @@
     "code": "BA",
     "flag": "https://flagcdn.com/ba.svg",
     "emoji": "🇧🇦",
-    "latinAmerica": false,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Botsuana",
@@ -221,8 +221,8 @@
     "code": "BW",
     "flag": "https://flagcdn.com/bw.svg",
     "emoji": "🇧🇼",
-    "latinAmerica": false,
-    "phoneLength": 7,
+    "owner": null,
+    "phoneLength": 7
   },
   {
     "country": "Brasil",
@@ -230,8 +230,8 @@
     "code": "BR",
     "flag": "https://flagcdn.com/br.svg",
     "emoji": "🇧🇷",
-    "latinAmerica": true,
-    "phoneLength": 11,
+    "owner": null,
+    "phoneLength": 11
   },
   {
     "country": "Brunéi",
@@ -239,8 +239,8 @@
     "code": "BN",
     "flag": "https://flagcdn.com/bn.svg",
     "emoji": "🇧🇳",
-    "latinAmerica": false,
-    "phoneLength": 7,
+    "owner": null,
+    "phoneLength": 7
   },
   {
     "country": "Bulgaria",
@@ -248,8 +248,8 @@
     "code": "BG",
     "flag": "https://flagcdn.com/bg.svg",
     "emoji": "🇧🇬",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Burkina Faso",
@@ -257,8 +257,8 @@
     "code": "BF",
     "flag": "https://flagcdn.com/bf.svg",
     "emoji": "🇧🇫",
-    "latinAmerica": false,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Burundi",
@@ -266,8 +266,8 @@
     "code": "BI",
     "flag": "https://flagcdn.com/bi.svg",
     "emoji": "🇧🇮",
-    "latinAmerica": false,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Bután",
@@ -275,8 +275,8 @@
     "code": "BT",
     "flag": "https://flagcdn.com/bt.svg",
     "emoji": "🇧🇹",
-    "latinAmerica": false,
-    "phoneLength": 7,
+    "owner": null,
+    "phoneLength": 7
   },
   {
     "country": "Cabo Verde",
@@ -284,8 +284,8 @@
     "code": "CV",
     "flag": "https://flagcdn.com/cv.svg",
     "emoji": "🇨🇻",
-    "latinAmerica": false,
-    "phoneLength": 7,
+    "owner": null,
+    "phoneLength": 7
   },
   {
     "country": "Camboya",
@@ -293,8 +293,8 @@
     "code": "KH",
     "flag": "https://flagcdn.com/kh.svg",
     "emoji": "🇰🇭",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Camerún",
@@ -302,8 +302,8 @@
     "code": "CM",
     "flag": "https://flagcdn.com/cm.svg",
     "emoji": "🇨🇲",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Canadá",
@@ -311,8 +311,8 @@
     "code": "CA",
     "flag": "https://flagcdn.com/ca.svg",
     "emoji": "🇨🇦",
-    "latinAmerica": false,
-    "phoneLength": 10,
+    "owner": null,
+    "phoneLength": 10
   },
   {
     "country": "Catar",
@@ -320,8 +320,8 @@
     "code": "QA",
     "flag": "https://flagcdn.com/qa.svg",
     "emoji": "🇶🇦",
-    "latinAmerica": false,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Chad",
@@ -329,8 +329,8 @@
     "code": "TD",
     "flag": "https://flagcdn.com/td.svg",
     "emoji": "🇹🇩",
-    "latinAmerica": false,
-    "phoneLength": 6,
+    "owner": null,
+    "phoneLength": 6
   },
   {
     "country": "Chile",
@@ -338,8 +338,8 @@
     "code": "CL",
     "flag": "https://flagcdn.com/cl.svg",
     "emoji": "🇨🇱",
-    "latinAmerica": true,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "China",
@@ -347,8 +347,8 @@
     "code": "CN",
     "flag": "https://flagcdn.com/cn.svg",
     "emoji": "🇨🇳",
-    "latinAmerica": false,
-    "phoneLength": 11,
+    "owner": null,
+    "phoneLength": 11
   },
   {
     "country": "Chipre",
@@ -356,8 +356,8 @@
     "code": "CY",
     "flag": "https://flagcdn.com/cy.svg",
     "emoji": "🇨🇾",
-    "latinAmerica": false,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Colombia",
@@ -365,8 +365,8 @@
     "code": "CO",
     "flag": "https://flagcdn.com/co.svg",
     "emoji": "🇨🇴",
-    "latinAmerica": true,
-    "phoneLength": 10,
+    "owner": null,
+    "phoneLength": 10
   },
   {
     "country": "Comoras",
@@ -374,8 +374,8 @@
     "code": "KM",
     "flag": "https://flagcdn.com/km.svg",
     "emoji": "🇰🇲",
-    "latinAmerica": false,
-    "phoneLength": 7,
+    "owner": null,
+    "phoneLength": 7
   },
   {
     "country": "Congo",
@@ -383,8 +383,8 @@
     "code": "CG",
     "flag": "https://flagcdn.com/cg.svg",
     "emoji": "🇨🇬",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Corea del Norte",
@@ -392,8 +392,8 @@
     "code": "KP",
     "flag": "https://flagcdn.com/kp.svg",
     "emoji": "🇰🇵",
-    "latinAmerica": false,
-    "phoneLength": 13,
+    "owner": null,
+    "phoneLength": 13
   },
   {
     "country": "Corea del Sur",
@@ -401,8 +401,8 @@
     "code": "KR",
     "flag": "https://flagcdn.com/kr.svg",
     "emoji": "🇰🇷",
-    "latinAmerica": false,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Costa de Marfil",
@@ -410,8 +410,8 @@
     "code": "CI",
     "flag": "https://flagcdn.com/ci.svg",
     "emoji": "🇨🇮",
-    "latinAmerica": false,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Costa Rica",
@@ -419,8 +419,8 @@
     "code": "CR",
     "flag": "https://flagcdn.com/cr.svg",
     "emoji": "🇨🇷",
-    "latinAmerica": true,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Croacia",
@@ -428,8 +428,8 @@
     "code": "HR",
     "flag": "https://flagcdn.com/hr.svg",
     "emoji": "🇭🇷",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Cuba",
@@ -437,8 +437,8 @@
     "code": "CU",
     "flag": "https://flagcdn.com/cu.svg",
     "emoji": "🇨🇺",
-    "latinAmerica": true,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Dinamarca",
@@ -446,8 +446,8 @@
     "code": "DK",
     "flag": "https://flagcdn.com/dk.svg",
     "emoji": "🇩🇰",
-    "latinAmerica": false,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Dominica",
@@ -455,8 +455,8 @@
     "code": "DM",
     "flag": "https://flagcdn.com/dm.svg",
     "emoji": "🇩🇲",
-    "latinAmerica": false,
-    "phoneLength": 10,
+    "owner": null,
+    "phoneLength": 10
   },
   {
     "country": "Ecuador",
@@ -464,8 +464,8 @@
     "code": "EC",
     "flag": "https://flagcdn.com/ec.svg",
     "emoji": "🇪🇨",
-    "latinAmerica": true,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Egipto",
@@ -473,8 +473,8 @@
     "code": "EG",
     "flag": "https://flagcdn.com/eg.svg",
     "emoji": "🇪🇬",
-    "latinAmerica": false,
-    "phoneLength": 10,
+    "owner": null,
+    "phoneLength": 10
   },
   {
     "country": "El Salvador",
@@ -482,8 +482,8 @@
     "code": "SV",
     "flag": "https://flagcdn.com/sv.svg",
     "emoji": "🇸🇻",
-    "latinAmerica": true,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Emiratos Árabes Unidos",
@@ -491,8 +491,8 @@
     "code": "AE",
     "flag": "https://flagcdn.com/ae.svg",
     "emoji": "🇦🇪",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Eritrea",
@@ -500,8 +500,8 @@
     "code": "ER",
     "flag": "https://flagcdn.com/er.svg",
     "emoji": "🇪🇷",
-    "latinAmerica": false,
-    "phoneLength": 7,
+    "owner": null,
+    "phoneLength": 7
   },
   {
     "country": "Eslovaquia",
@@ -509,8 +509,8 @@
     "code": "SK",
     "flag": "https://flagcdn.com/sk.svg",
     "emoji": "🇸🇰",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Eslovenia",
@@ -518,8 +518,8 @@
     "code": "SI",
     "flag": "https://flagcdn.com/si.svg",
     "emoji": "🇸🇮",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "España",
@@ -527,8 +527,8 @@
     "code": "ES",
     "flag": "https://flagcdn.com/es.svg",
     "emoji": "🇪🇸",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Estados Unidos",
@@ -536,8 +536,8 @@
     "code": "US",
     "flag": "https://flagcdn.com/us.svg",
     "emoji": "🇺🇸",
-    "latinAmerica": false,
-    "phoneLength": 10,
+    "owner": null,
+    "phoneLength": 10
   },
   {
     "country": "Estonia",
@@ -545,8 +545,8 @@
     "code": "EE",
     "flag": "https://flagcdn.com/ee.svg",
     "emoji": "🇪🇪",
-    "latinAmerica": false,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Etiopía",
@@ -554,8 +554,8 @@
     "code": "ET",
     "flag": "https://flagcdn.com/et.svg",
     "emoji": "🇪🇹",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Filipinas",
@@ -563,8 +563,8 @@
     "code": "PH",
     "flag": "https://flagcdn.com/ph.svg",
     "emoji": "🇵🇭",
-    "latinAmerica": false,
-    "phoneLength": 10,
+    "owner": null,
+    "phoneLength": 10
   },
   {
     "country": "Finlandia",
@@ -572,8 +572,8 @@
     "code": "FI",
     "flag": "https://flagcdn.com/fi.svg",
     "emoji": "🇫🇮",
-    "latinAmerica": false,
-    "phoneLength": 11,
+    "owner": null,
+    "phoneLength": 11
   },
   {
     "country": "Fiyi",
@@ -581,8 +581,8 @@
     "code": "FJ",
     "flag": "https://flagcdn.com/fj.svg",
     "emoji": "🇫🇯",
-    "latinAmerica": false,
-    "phoneLength": 7,
+    "owner": null,
+    "phoneLength": 7
   },
   {
     "country": "Francia",
@@ -590,8 +590,8 @@
     "code": "FR",
     "flag": "https://flagcdn.com/fr.svg",
     "emoji": "🇫🇷",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Gabón",
@@ -599,8 +599,8 @@
     "code": "GA",
     "flag": "https://flagcdn.com/ga.svg",
     "emoji": "🇬🇦",
-    "latinAmerica": false,
-    "phoneLength": 7,
+    "owner": null,
+    "phoneLength": 7
   },
   {
     "country": "Gambia",
@@ -608,8 +608,8 @@
     "code": "GM",
     "flag": "https://flagcdn.com/gm.svg",
     "emoji": "🇬🇲",
-    "latinAmerica": false,
-    "phoneLength": 7,
+    "owner": null,
+    "phoneLength": 7
   },
   {
     "country": "Georgia",
@@ -617,8 +617,8 @@
     "code": "GE",
     "flag": "https://flagcdn.com/ge.svg",
     "emoji": "🇬🇪",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Ghana",
@@ -626,8 +626,8 @@
     "code": "GH",
     "flag": "https://flagcdn.com/gh.svg",
     "emoji": "🇬🇭",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Granada",
@@ -635,8 +635,8 @@
     "code": "GD",
     "flag": "https://flagcdn.com/gd.svg",
     "emoji": "🇬🇩",
-    "latinAmerica": false,
-    "phoneLength": 10,
+    "owner": null,
+    "phoneLength": 10
   },
   {
     "country": "Grecia",
@@ -644,8 +644,8 @@
     "code": "GR",
     "flag": "https://flagcdn.com/gr.svg",
     "emoji": "🇬🇷",
-    "latinAmerica": false,
-    "phoneLength": 10,
+    "owner": null,
+    "phoneLength": 10
   },
   {
     "country": "Guatemala",
@@ -653,8 +653,8 @@
     "code": "GT",
     "flag": "https://flagcdn.com/gt.svg",
     "emoji": "🇬🇹",
-    "latinAmerica": true,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Guinea",
@@ -662,8 +662,8 @@
     "code": "GN",
     "flag": "https://flagcdn.com/gn.svg",
     "emoji": "🇬🇳",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Guinea-Bisáu",
@@ -671,8 +671,8 @@
     "code": "GW",
     "flag": "https://flagcdn.com/gw.svg",
     "emoji": "🇬🇼",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Guinea Ecuatorial",
@@ -680,8 +680,8 @@
     "code": "GQ",
     "flag": "https://flagcdn.com/gq.svg",
     "emoji": "🇬🇶",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Guyana",
@@ -689,8 +689,8 @@
     "code": "GY",
     "flag": "https://flagcdn.com/gy.svg",
     "emoji": "🇬🇾",
-    "latinAmerica": false,
-    "phoneLength": 7,
+    "owner": null,
+    "phoneLength": 7
   },
   {
     "country": "Haití",
@@ -698,8 +698,8 @@
     "code": "HT",
     "flag": "https://flagcdn.com/ht.svg",
     "emoji": "🇭🇹",
-    "latinAmerica": true,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Honduras",
@@ -707,8 +707,8 @@
     "code": "HN",
     "flag": "https://flagcdn.com/hn.svg",
     "emoji": "🇭🇳",
-    "latinAmerica": true,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Hungría",
@@ -716,8 +716,8 @@
     "code": "HU",
     "flag": "https://flagcdn.com/hu.svg",
     "emoji": "🇭🇺",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "India",
@@ -725,8 +725,8 @@
     "code": "IN",
     "flag": "https://flagcdn.com/in.svg",
     "emoji": "🇮🇳",
-    "latinAmerica": false,
-    "phoneLength": 10,
+    "owner": null,
+    "phoneLength": 10
   },
   {
     "country": "Indonesia",
@@ -734,8 +734,8 @@
     "code": "ID",
     "flag": "https://flagcdn.com/id.svg",
     "emoji": "🇮🇩",
-    "latinAmerica": false,
-    "phoneLength": 11,
+    "owner": null,
+    "phoneLength": 11
   },
   {
     "country": "Irak",
@@ -743,8 +743,8 @@
     "code": "IQ",
     "flag": "https://flagcdn.com/iq.svg",
     "emoji": "🇮🇶",
-    "latinAmerica": false,
-    "phoneLength": 10,
+    "owner": null,
+    "phoneLength": 10
   },
   {
     "country": "Irán",
@@ -752,8 +752,8 @@
     "code": "IR",
     "flag": "https://flagcdn.com/ir.svg",
     "emoji": "🇮🇷",
-    "latinAmerica": false,
-    "phoneLength": 11,
+    "owner": null,
+    "phoneLength": 11
   },
   {
     "country": "Irlanda",
@@ -761,8 +761,8 @@
     "code": "IE",
     "flag": "https://flagcdn.com/ie.svg",
     "emoji": "🇮🇪",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Islandia",
@@ -770,8 +770,8 @@
     "code": "IS",
     "flag": "https://flagcdn.com/is.svg",
     "emoji": "🇮🇸",
-    "latinAmerica": false,
-    "phoneLength": 7,
+    "owner": null,
+    "phoneLength": 7
   },
   {
     "country": "Islas Marshall",
@@ -779,8 +779,8 @@
     "code": "MH",
     "flag": "https://flagcdn.com/mh.svg",
     "emoji": "🇲🇭",
-    "latinAmerica": false,
-    "phoneLength": 7,
+    "owner": null,
+    "phoneLength": 7
   },
   {
     "country": "Islas Salomón",
@@ -788,8 +788,8 @@
     "code": "SB",
     "flag": "https://flagcdn.com/sb.svg",
     "emoji": "🇸🇧",
-    "latinAmerica": false,
-    "phoneLength": 7,
+    "owner": null,
+    "phoneLength": 7
   },
   {
     "country": "Israel",
@@ -797,8 +797,8 @@
     "code": "IL",
     "flag": "https://flagcdn.com/il.svg",
     "emoji": "🇮🇱",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Italia",
@@ -806,8 +806,8 @@
     "code": "IT",
     "flag": "https://flagcdn.com/it.svg",
     "emoji": "🇮🇹",
-    "latinAmerica": false,
-    "phoneLength": 10,
+    "owner": null,
+    "phoneLength": 10
   },
   {
     "country": "Jamaica",
@@ -815,8 +815,8 @@
     "code": "JM",
     "flag": "https://flagcdn.com/jm.svg",
     "emoji": "🇯🇲",
-    "latinAmerica": false,
-    "phoneLength": 10,
+    "owner": null,
+    "phoneLength": 10
   },
   {
     "country": "Japón",
@@ -824,8 +824,8 @@
     "code": "JP",
     "flag": "https://flagcdn.com/jp.svg",
     "emoji": "🇯🇵",
-    "latinAmerica": false,
-    "phoneLength": 0,
+    "owner": null,
+    "phoneLength": 0
   },
   {
     "country": "Jordania",
@@ -833,8 +833,8 @@
     "code": "JO",
     "flag": "https://flagcdn.com/jo.svg",
     "emoji": "🇯🇴",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Kazajistán",
@@ -842,8 +842,8 @@
     "code": "KZ",
     "flag": "https://flagcdn.com/kz.svg",
     "emoji": "🇰🇿",
-    "latinAmerica": false,
-    "phoneLength": 10,
+    "owner": null,
+    "phoneLength": 10
   },
   {
     "country": "Kenia",
@@ -851,8 +851,8 @@
     "code": "KE",
     "flag": "https://flagcdn.com/ke.svg",
     "emoji": "🇰🇪",
-    "latinAmerica": false,
-    "phoneLength": 10,
+    "owner": null,
+    "phoneLength": 10
   },
   {
     "country": "Kirguistán",
@@ -860,8 +860,8 @@
     "code": "KG",
     "flag": "https://flagcdn.com/kg.svg",
     "emoji": "🇰🇬",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Kiribati",
@@ -869,8 +869,8 @@
     "code": "KI",
     "flag": "https://flagcdn.com/ki.svg",
     "emoji": "🇰🇮",
-    "latinAmerica": false,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Kuwait",
@@ -878,8 +878,8 @@
     "code": "KW",
     "flag": "https://flagcdn.com/kw.svg",
     "emoji": "🇰🇼",
-    "latinAmerica": false,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Laos",
@@ -887,8 +887,8 @@
     "code": "LA",
     "flag": "https://flagcdn.com/la.svg",
     "emoji": "🇱🇦",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Lesoto",
@@ -896,8 +896,8 @@
     "code": "LS",
     "flag": "https://flagcdn.com/ls.svg",
     "emoji": "🇱🇸",
-    "latinAmerica": false,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Letonia",
@@ -905,8 +905,8 @@
     "code": "LV",
     "flag": "https://flagcdn.com/lv.svg",
     "emoji": "🇱🇻",
-    "latinAmerica": false,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Líbano",
@@ -914,8 +914,8 @@
     "code": "LB",
     "flag": "https://flagcdn.com/lb.svg",
     "emoji": "🇱🇧",
-    "latinAmerica": false,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Liberia",
@@ -923,8 +923,8 @@
     "code": "LR",
     "flag": "https://flagcdn.com/lr.svg",
     "emoji": "🇱🇷",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Libia",
@@ -932,8 +932,8 @@
     "code": "LY",
     "flag": "https://flagcdn.com/ly.svg",
     "emoji": "🇱🇾",
-    "latinAmerica": false,
-    "phoneLength": 10,
+    "owner": null,
+    "phoneLength": 10
   },
   {
     "country": "Liechtenstein",
@@ -941,8 +941,8 @@
     "code": "LI",
     "flag": "https://flagcdn.com/li.svg",
     "emoji": "🇱🇮",
-    "latinAmerica": false,
-    "phoneLength": 7,
+    "owner": null,
+    "phoneLength": 7
   },
   {
     "country": "Lituania",
@@ -950,8 +950,8 @@
     "code": "LT",
     "flag": "https://flagcdn.com/lt.svg",
     "emoji": "🇱🇹",
-    "latinAmerica": false,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Luxemburgo",
@@ -959,8 +959,8 @@
     "code": "LU",
     "flag": "https://flagcdn.com/lu.svg",
     "emoji": "🇱🇺",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Madagascar",
@@ -968,8 +968,8 @@
     "code": "MG",
     "flag": "https://flagcdn.com/mg.svg",
     "emoji": "🇲🇬",
-    "latinAmerica": false,
-    "phoneLength": 7,
+    "owner": null,
+    "phoneLength": 7
   },
   {
     "country": "Malasia",
@@ -977,8 +977,8 @@
     "code": "MY",
     "flag": "https://flagcdn.com/my.svg",
     "emoji": "🇲🇾",
-    "latinAmerica": false,
-    "phoneLength": 7,
+    "owner": null,
+    "phoneLength": 7
   },
   {
     "country": "Malaui",
@@ -986,8 +986,8 @@
     "code": "MW",
     "flag": "https://flagcdn.com/mw.svg",
     "emoji": "🇲🇼",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Maldivas",
@@ -995,8 +995,8 @@
     "code": "MV",
     "flag": "https://flagcdn.com/mv.svg",
     "emoji": "🇲🇻",
-    "latinAmerica": false,
-    "phoneLength": 7,
+    "owner": null,
+    "phoneLength": 7
   },
   {
     "country": "Malí",
@@ -1004,8 +1004,8 @@
     "code": "ML",
     "flag": "https://flagcdn.com/ml.svg",
     "emoji": "🇲🇱",
-    "latinAmerica": false,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Malta",
@@ -1013,8 +1013,8 @@
     "code": "MT",
     "flag": "https://flagcdn.com/mt.svg",
     "emoji": "🇲🇹",
-    "latinAmerica": false,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Marruecos",
@@ -1022,8 +1022,8 @@
     "code": "MA",
     "flag": "https://flagcdn.com/ma.svg",
     "emoji": "🇲🇦",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Mauricio",
@@ -1031,8 +1031,8 @@
     "code": "MU",
     "flag": "https://flagcdn.com/mu.svg",
     "emoji": "🇲🇺",
-    "latinAmerica": false,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Mauritania",
@@ -1040,8 +1040,8 @@
     "code": "MR",
     "flag": "https://flagcdn.com/mr.svg",
     "emoji": "🇲🇷",
-    "latinAmerica": false,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "México",
@@ -1049,8 +1049,8 @@
     "code": "MX",
     "flag": "https://flagcdn.com/mx.svg",
     "emoji": "🇲🇽",
-    "latinAmerica": true,
-    "phoneLength": 10,
+    "owner": null,
+    "phoneLength": 10
   },
   {
     "country": "Micronesia",
@@ -1058,8 +1058,8 @@
     "code": "FM",
     "flag": "https://flagcdn.com/fm.svg",
     "emoji": "🇫🇲",
-    "latinAmerica": false,
-    "phoneLength": 7,
+    "owner": null,
+    "phoneLength": 7
   },
   {
     "country": "Moldavia",
@@ -1067,8 +1067,8 @@
     "code": "MD",
     "flag": "https://flagcdn.com/md.svg",
     "emoji": "🇲🇩",
-    "latinAmerica": false,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Mónaco",
@@ -1076,8 +1076,8 @@
     "code": "MC",
     "flag": "https://flagcdn.com/mc.svg",
     "emoji": "🇲🇨",
-    "latinAmerica": false,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Mongolia",
@@ -1085,8 +1085,8 @@
     "code": "MN",
     "flag": "https://flagcdn.com/mn.svg",
     "emoji": "🇲🇳",
-    "latinAmerica": false,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Montenegro",
@@ -1094,8 +1094,8 @@
     "code": "ME",
     "flag": "https://flagcdn.com/me.svg",
     "emoji": "🇲🇪",
-    "latinAmerica": false,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Mozambique",
@@ -1103,8 +1103,8 @@
     "code": "MZ",
     "flag": "https://flagcdn.com/mz.svg",
     "emoji": "🇲🇿",
-    "latinAmerica": false,
-    "phoneLength": 12,
+    "owner": null,
+    "phoneLength": 12
   },
   {
     "country": "Namibia",
@@ -1112,8 +1112,8 @@
     "code": "NA",
     "flag": "https://flagcdn.com/na.svg",
     "emoji": "🇳🇦",
-    "latinAmerica": false,
-    "phoneLength": 7,
+    "owner": null,
+    "phoneLength": 7
   },
   {
     "country": "Nauru",
@@ -1121,8 +1121,8 @@
     "code": "NR",
     "flag": "https://flagcdn.com/nr.svg",
     "emoji": "🇳🇷",
-    "latinAmerica": false,
-    "phoneLength": 7,
+    "owner": null,
+    "phoneLength": 7
   },
   {
     "country": "Nepal",
@@ -1130,8 +1130,8 @@
     "code": "NP",
     "flag": "https://flagcdn.com/np.svg",
     "emoji": "🇳🇵",
-    "latinAmerica": false,
-    "phoneLength": 10,
+    "owner": null,
+    "phoneLength": 10
   },
   {
     "country": "Nicaragua",
@@ -1139,8 +1139,8 @@
     "code": "NI",
     "flag": "https://flagcdn.com/ni.svg",
     "emoji": "🇳🇮",
-    "latinAmerica": true,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Níger",
@@ -1148,8 +1148,8 @@
     "code": "NE",
     "flag": "https://flagcdn.com/ne.svg",
     "emoji": "🇳🇪",
-    "latinAmerica": false,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Nigeria",
@@ -1157,8 +1157,8 @@
     "code": "NG",
     "flag": "https://flagcdn.com/ng.svg",
     "emoji": "🇳🇬",
-    "latinAmerica": false,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Noruega",
@@ -1166,8 +1166,8 @@
     "code": "NO",
     "flag": "https://flagcdn.com/no.svg",
     "emoji": "🇳🇴",
-    "latinAmerica": false,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Nueva Zelanda",
@@ -1175,8 +1175,8 @@
     "code": "NZ",
     "flag": "https://flagcdn.com/nz.svg",
     "emoji": "🇳🇿",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Omán",
@@ -1184,8 +1184,8 @@
     "code": "OM",
     "flag": "https://flagcdn.com/om.svg",
     "emoji": "🇴🇲",
-    "latinAmerica": false,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Países Bajos",
@@ -1193,8 +1193,8 @@
     "code": "NL",
     "flag": "https://flagcdn.com/nl.svg",
     "emoji": "🇳🇱",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Pakistán",
@@ -1202,8 +1202,8 @@
     "code": "PK",
     "flag": "https://flagcdn.com/pk.svg",
     "emoji": "🇵🇰",
-    "latinAmerica": false,
-    "phoneLength": 10,
+    "owner": null,
+    "phoneLength": 10
   },
   {
     "country": "Palaos",
@@ -1211,8 +1211,8 @@
     "code": "PW",
     "flag": "https://flagcdn.com/pw.svg",
     "emoji": "🇵🇼",
-    "latinAmerica": false,
-    "phoneLength": 7,
+    "owner": null,
+    "phoneLength": 7
   },
   {
     "country": "Panamá",
@@ -1220,8 +1220,8 @@
     "code": "PA",
     "flag": "https://flagcdn.com/pa.svg",
     "emoji": "🇵🇦",
-    "latinAmerica": true,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Papúa Nueva Guinea",
@@ -1229,8 +1229,8 @@
     "code": "PG",
     "flag": "https://flagcdn.com/pg.svg",
     "emoji": "🇵🇬",
-    "latinAmerica": false,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Paraguay",
@@ -1238,8 +1238,8 @@
     "code": "PY",
     "flag": "https://flagcdn.com/py.svg",
     "emoji": "🇵🇾",
-    "latinAmerica": true,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Perú",
@@ -1247,8 +1247,8 @@
     "code": "PE",
     "flag": "https://flagcdn.com/pe.svg",
     "emoji": "🇵🇪",
-    "latinAmerica": true,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Polonia",
@@ -1256,8 +1256,8 @@
     "code": "PL",
     "flag": "https://flagcdn.com/pl.svg",
     "emoji": "🇵🇱",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Portugal",
@@ -1265,8 +1265,8 @@
     "code": "PT",
     "flag": "https://flagcdn.com/pt.svg",
     "emoji": "🇵🇹",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Reino Unido",
@@ -1274,8 +1274,8 @@
     "code": "GB",
     "flag": "https://flagcdn.com/gb.svg",
     "emoji": "🇬🇧",
-    "latinAmerica": false,
-    "phoneLength": 10,
+    "owner": null,
+    "phoneLength": 10
   },
   {
     "country": "República Centroafricana",
@@ -1283,8 +1283,8 @@
     "code": "CF",
     "flag": "https://flagcdn.com/cf.svg",
     "emoji": "🇨🇫",
-    "latinAmerica": false,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "República Checa",
@@ -1292,8 +1292,8 @@
     "code": "CZ",
     "flag": "https://flagcdn.com/cz.svg",
     "emoji": "🇨🇿",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "República del Congo",
@@ -1301,8 +1301,8 @@
     "code": "CD",
     "flag": "https://flagcdn.com/cd.svg",
     "emoji": "🇨🇩",
-    "latinAmerica": false,
-    "phoneLength": 7,
+    "owner": null,
+    "phoneLength": 7
   },
   {
     "country": "República Dominicana",
@@ -1310,8 +1310,8 @@
     "code": "DO",
     "flag": "https://flagcdn.com/do.svg",
     "emoji": "🇩🇴",
-    "latinAmerica": true,
-    "phoneLength": 10,
+    "owner": null,
+    "phoneLength": 10
   },
   {
     "country": "Ruanda",
@@ -1319,8 +1319,8 @@
     "code": "RW",
     "flag": "https://flagcdn.com/rw.svg",
     "emoji": "🇷🇼",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Rumania",
@@ -1328,8 +1328,8 @@
     "code": "RO",
     "flag": "https://flagcdn.com/ro.svg",
     "emoji": "🇷🇴",
-    "latinAmerica": false,
-    "phoneLength": 10,
+    "owner": null,
+    "phoneLength": 10
   },
   {
     "country": "Rusia",
@@ -1337,8 +1337,8 @@
     "code": "RU",
     "flag": "https://flagcdn.com/ru.svg",
     "emoji": "🇷🇺",
-    "latinAmerica": false,
-    "phoneLength": 10,
+    "owner": null,
+    "phoneLength": 10
   },
   {
     "country": "Samoa",
@@ -1346,8 +1346,8 @@
     "code": "WS",
     "flag": "https://flagcdn.com/ws.svg",
     "emoji": "🇼🇸",
-    "latinAmerica": false,
-    "phoneLength": 7,
+    "owner": null,
+    "phoneLength": 7
   },
   {
     "country": "San Cristóbal y Nieves",
@@ -1355,8 +1355,8 @@
     "code": "KN",
     "flag": "https://flagcdn.com/kn.svg",
     "emoji": "🇰🇳",
-    "latinAmerica": false,
-    "phoneLength": 10,
+    "owner": null,
+    "phoneLength": 10
   },
   {
     "country": "San Marino",
@@ -1364,8 +1364,8 @@
     "code": "SM",
     "flag": "https://flagcdn.com/sm.svg",
     "emoji": "🇸🇲",
-    "latinAmerica": false,
-    "phoneLength": 10,
+    "owner": null,
+    "phoneLength": 10
   },
   {
     "country": "Santa Lucía",
@@ -1373,8 +1373,8 @@
     "code": "LC",
     "flag": "https://flagcdn.com/lc.svg",
     "emoji": "🇱🇨",
-    "latinAmerica": false,
-    "phoneLength": 7,
+    "owner": null,
+    "phoneLength": 7
   },
   {
     "country": "Santo Tomé y Príncipe",
@@ -1382,8 +1382,8 @@
     "code": "ST",
     "flag": "https://flagcdn.com/st.svg",
     "emoji": "🇸🇹",
-    "latinAmerica": false,
-    "phoneLength": 7,
+    "owner": null,
+    "phoneLength": 7
   },
   {
     "country": "San Vicente y las Granadinas",
@@ -1391,8 +1391,8 @@
     "code": "VC",
     "flag": "https://flagcdn.com/vc.svg",
     "emoji": "🇻🇨",
-    "latinAmerica": false,
-    "phoneLength": 7,
+    "owner": null,
+    "phoneLength": 7
   },
   {
     "country": "Senegal",
@@ -1400,8 +1400,8 @@
     "code": "SN",
     "flag": "https://flagcdn.com/sn.svg",
     "emoji": "🇸🇳",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Serbia",
@@ -1409,8 +1409,8 @@
     "code": "RS",
     "flag": "https://flagcdn.com/rs.svg",
     "emoji": "🇷🇸",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Seychelles",
@@ -1418,8 +1418,8 @@
     "code": "SC",
     "flag": "https://flagcdn.com/sc.svg",
     "emoji": "🇸🇨",
-    "latinAmerica": false,
-    "phoneLength": 7,
+    "owner": null,
+    "phoneLength": 7
   },
   {
     "country": "Sierra Leona",
@@ -1427,8 +1427,8 @@
     "code": "SL",
     "flag": "https://flagcdn.com/sl.svg",
     "emoji": "🇸🇱",
-    "latinAmerica": false,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Singapur",
@@ -1436,8 +1436,8 @@
     "code": "SG",
     "flag": "https://flagcdn.com/sg.svg",
     "emoji": "🇸🇬",
-    "latinAmerica": false,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Siria",
@@ -1445,8 +1445,8 @@
     "code": "SY",
     "flag": "https://flagcdn.com/sy.svg",
     "emoji": "🇸🇾",
-    "latinAmerica": false,
-    "phoneLength": 7,
+    "owner": null,
+    "phoneLength": 7
   },
   {
     "country": "Somalia",
@@ -1454,8 +1454,8 @@
     "code": "SO",
     "flag": "https://flagcdn.com/so.svg",
     "emoji": "🇸🇴",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Sri Lanka",
@@ -1463,8 +1463,8 @@
     "code": "LK",
     "flag": "https://flagcdn.com/lk.svg",
     "emoji": "🇱🇰",
-    "latinAmerica": false,
-    "phoneLength": 7,
+    "owner": null,
+    "phoneLength": 7
   },
   {
     "country": "Sudáfrica",
@@ -1472,8 +1472,8 @@
     "code": "ZA",
     "flag": "https://flagcdn.com/za.svg",
     "emoji": "🇿🇦",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Sudán",
@@ -1481,8 +1481,8 @@
     "code": "SD",
     "flag": "https://flagcdn.com/sd.svg",
     "emoji": "🇸🇩",
-    "latinAmerica": false,
-    "phoneLength": 7,
+    "owner": null,
+    "phoneLength": 7
   },
   {
     "country": "Sudán del Sur",
@@ -1490,8 +1490,8 @@
     "code": "SS",
     "flag": "https://flagcdn.com/ss.svg",
     "emoji": "🇸🇸",
-    "latinAmerica": false,
-    "phoneLength": 7,
+    "owner": null,
+    "phoneLength": 7
   },
   {
     "country": "Suecia",
@@ -1499,8 +1499,8 @@
     "code": "SE",
     "flag": "https://flagcdn.com/se.svg",
     "emoji": "🇸🇪",
-    "latinAmerica": false,
-    "phoneLength": 7,
+    "owner": null,
+    "phoneLength": 7
   },
   {
     "country": "Suiza",
@@ -1508,8 +1508,8 @@
     "code": "CH",
     "flag": "https://flagcdn.com/ch.svg",
     "emoji": "🇨🇭",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Surinam",
@@ -1517,8 +1517,8 @@
     "code": "SR",
     "flag": "https://flagcdn.com/sr.svg",
     "emoji": "🇸🇷",
-    "latinAmerica": false,
-    "phoneLength": 7,
+    "owner": null,
+    "phoneLength": 7
   },
   {
     "country": "Tailandia",
@@ -1526,8 +1526,8 @@
     "code": "TH",
     "flag": "https://flagcdn.com/th.svg",
     "emoji": "🇹🇭",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Tanzania",
@@ -1535,8 +1535,8 @@
     "code": "TZ",
     "flag": "https://flagcdn.com/tz.svg",
     "emoji": "🇹🇿",
-    "latinAmerica": false,
-    "phoneLength": 7,
+    "owner": null,
+    "phoneLength": 7
   },
   {
     "country": "Tayikistán",
@@ -1544,8 +1544,8 @@
     "code": "TJ",
     "flag": "https://flagcdn.com/tj.svg",
     "emoji": "🇹🇯",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Timor Oriental",
@@ -1553,8 +1553,8 @@
     "code": "TL",
     "flag": "https://flagcdn.com/tl.svg",
     "emoji": "🇹🇱",
-    "latinAmerica": false,
-    "phoneLength": 7,
+    "owner": null,
+    "phoneLength": 7
   },
   {
     "country": "Togo",
@@ -1562,8 +1562,8 @@
     "code": "TG",
     "flag": "https://flagcdn.com/tg.svg",
     "emoji": "🇹🇬",
-    "latinAmerica": false,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Tonga",
@@ -1571,8 +1571,8 @@
     "code": "TO",
     "flag": "https://flagcdn.com/to.svg",
     "emoji": "🇹🇴",
-    "latinAmerica": false,
-    "phoneLength": 5,
+    "owner": null,
+    "phoneLength": 5
   },
   {
     "country": "Trinidad y Tobago",
@@ -1580,8 +1580,8 @@
     "code": "TT",
     "flag": "https://flagcdn.com/tt.svg",
     "emoji": "🇹🇹",
-    "latinAmerica": false,
-    "phoneLength": 7,
+    "owner": null,
+    "phoneLength": 7
   },
   {
     "country": "Túnez",
@@ -1589,8 +1589,8 @@
     "code": "TN",
     "flag": "https://flagcdn.com/tn.svg",
     "emoji": "🇹🇳",
-    "latinAmerica": false,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Turkmenistán",
@@ -1598,8 +1598,8 @@
     "code": "TM",
     "flag": "https://flagcdn.com/tm.svg",
     "emoji": "🇹🇲",
-    "latinAmerica": false,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Turquía",
@@ -1607,8 +1607,8 @@
     "code": "TR",
     "flag": "https://flagcdn.com/tr.svg",
     "emoji": "🇹🇷",
-    "latinAmerica": false,
-    "phoneLength": 11,
+    "owner": null,
+    "phoneLength": 11
   },
   {
     "country": "Tuvalu",
@@ -1616,8 +1616,8 @@
     "code": "TV",
     "flag": "https://flagcdn.com/tv.svg",
     "emoji": "🇹🇻",
-    "latinAmerica": false,
-    "phoneLength": 5,
+    "owner": null,
+    "phoneLength": 5
   },
   {
     "country": "Ucrania",
@@ -1625,8 +1625,8 @@
     "code": "UA",
     "flag": "https://flagcdn.com/ua.svg",
     "emoji": "🇺🇦",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Uganda",
@@ -1634,8 +1634,8 @@
     "code": "UG",
     "flag": "https://flagcdn.com/ug.svg",
     "emoji": "🇺🇬",
-    "latinAmerica": false,
-    "phoneLength": 7,
+    "owner": null,
+    "phoneLength": 7
   },
   {
     "country": "Uruguay",
@@ -1643,8 +1643,8 @@
     "code": "UY",
     "flag": "https://flagcdn.com/uy.svg",
     "emoji": "🇺🇾",
-    "latinAmerica": true,
-    "phoneLength": 8,
+    "owner": null,
+    "phoneLength": 8
   },
   {
     "country": "Uzbekistán",
@@ -1652,8 +1652,8 @@
     "code": "UZ",
     "flag": "https://flagcdn.com/uz.svg",
     "emoji": "🇺🇿",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Vanuatu",
@@ -1661,8 +1661,8 @@
     "code": "VU",
     "flag": "https://flagcdn.com/vu.svg",
     "emoji": "🇻🇺",
-    "latinAmerica": false,
-    "phoneLength": 5,
+    "owner": null,
+    "phoneLength": 5
   },
   {
     "country": "Venezuela",
@@ -1670,8 +1670,8 @@
     "code": "VE",
     "flag": "https://flagcdn.com/ve.svg",
     "emoji": "🇻🇪",
-    "latinAmerica": true,
-    "phoneLength": 7,
+    "owner": null,
+    "phoneLength": 7
   },
   {
     "country": "Vietnam",
@@ -1679,8 +1679,8 @@
     "code": "VN",
     "flag": "https://flagcdn.com/vn.svg",
     "emoji": "🇻🇳",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Yemen",
@@ -1688,8 +1688,8 @@
     "code": "YE",
     "flag": "https://flagcdn.com/ye.svg",
     "emoji": "🇾🇪",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Yibuti",
@@ -1697,8 +1697,8 @@
     "code": "DJ",
     "flag": "https://flagcdn.com/dj.svg",
     "emoji": "🇩🇯",
-    "latinAmerica": false,
-    "phoneLength": 10,
+    "owner": null,
+    "phoneLength": 10
   },
   {
     "country": "Zambia",
@@ -1706,8 +1706,8 @@
     "code": "ZM",
     "flag": "https://flagcdn.com/zm.svg",
     "emoji": "🇿🇲",
-    "latinAmerica": false,
-    "phoneLength": 9,
+    "owner": null,
+    "phoneLength": 9
   },
   {
     "country": "Zimbabue",
@@ -1715,7 +1715,7 @@
     "code": "ZW",
     "flag": "https://flagcdn.com/zw.svg",
     "emoji": "🇿🇼",
-    "latinAmerica": false,
-    "phoneLength": 9,
-  },
-];
+    "owner": null,
+    "phoneLength": 9
+  }
+]
